@@ -2,12 +2,14 @@
     "name": "copeito/propertymanager",
     "description": "Gives getter and setter methods to extender class",
     "type": "library",
+    "require": {
+        "copeito/getinstance": "dev-master"
+    },
     "authors": [
         {
             "name": "David Rey",
             "email": "copeito@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
